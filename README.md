@@ -24,6 +24,12 @@ Desenvolver um protótipo de interface (UI) com foco em usabilidade, organizaç�
 - Criação de interfaces inspiradas em aplicativos reais
 - Noções iniciais de UX/UI Design
 
+## 📸 Preview
+<img width="453" height="853" alt="tela inicial" src="https://github.com/user-attachments/assets/7cab69fe-cfd5-49ed-ae72-55a439739084" />
+<img width="484" height="861" alt="tela produtos" src="https://github.com/user-attachments/assets/05bea1e1-d241-4961-8aee-7a42fbcdbd3c" />
+<img width="481" height="872" alt="tela detalhe produto" src="https://github.com/user-attachments/assets/3fd81e68-ab9d-4a1a-8fa8-83f5222ff2fb" />
+
+
 
 ## 🚀 Observação
 Este projeto foi desenvolvido no início da minha jornada acadêmica e representa minha evolução na área de tecnologia e design de interfaces.
